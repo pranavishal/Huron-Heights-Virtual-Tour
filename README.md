@@ -1,2 +1,2 @@
 # Huron-Heights-Virtual-Tour
-A tour of Huron Heights Secondary School 
+A tour of my high school: Huron Heights Secondary School 
